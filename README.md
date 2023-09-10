@@ -1,7 +1,3 @@
-# Embedded Engineering Student Portfolio
-
-Welcome to my GitHub repository! This is where I showcase my work and projects related to embedded systems and engineering.
-
 ## About Me
 
 - **Name:** SHUBHAM PANDEY
